@@ -13,3 +13,6 @@ Big Data Technology project using Kafka, Spark Stream and Spark SQL.
 5- run the consumer listener class
 
 6- run the sparksql class
+
+
+video: https://www.youtube.com/watch?v=495oKuP-ACU
